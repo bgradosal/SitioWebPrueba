@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\PruebaWebsite\\PruebaWebsite.csproj": {}
+    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\SitioWebPrueba\\PruebaWebsite\\PruebaWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\PruebaWebsite\\PruebaWebsite.csproj": {
+    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\SitioWebPrueba\\PruebaWebsite\\PruebaWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\PruebaWebsite\\PruebaWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\SitioWebPrueba\\PruebaWebsite\\PruebaWebsite.csproj",
         "projectName": "PruebaWebsite",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\PruebaWebsite\\PruebaWebsite.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\SitioWebPrueba\\PruebaWebsite\\PruebaWebsite.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\PruebaWebsite\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\Pruebas\\Web Apps\\SitioWebPrueba\\PruebaWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages",
