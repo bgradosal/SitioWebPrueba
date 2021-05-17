@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'prueba-Websiteb'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ba14d0c63ef5496798fda165e434df73 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4e1616da71b14ab8a42811370c127684 }}
         package: .
